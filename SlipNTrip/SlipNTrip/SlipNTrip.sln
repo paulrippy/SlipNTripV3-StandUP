@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlipNTrip", "SlipNTrip.csproj", "{F00CFE49-32ED-4F4F-B8FE-3A2E4B1F1CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00CFE49-32ED-4F4F-B8FE-3A2E4B1F1CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00CFE49-32ED-4F4F-B8FE-3A2E4B1F1CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00CFE49-32ED-4F4F-B8FE-3A2E4B1F1CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00CFE49-32ED-4F4F-B8FE-3A2E4B1F1CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02868B1-EFA2-44C0-8A3A-334016BA1D80}
+	EndGlobalSection
+EndGlobal
