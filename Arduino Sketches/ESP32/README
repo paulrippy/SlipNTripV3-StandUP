@@ -1,2 +1,3 @@
 # Upload this code to ESP32 and connect with a BLE client to control motor
 # Write to the characteristics on your client to control stepper motor
+# BLEServer is tailored toward V3 project, ESP32 Motor is general example of a BLE server
