@@ -1,3 +1,3 @@
 # Upload this code to ESP32 and connect with a BLE client to control motor
 # Write to the characteristics on your client to control stepper motor
-# SlipNTrip V3 is tailored toward V3 project, ESP32 Motor is general example of a BLE server
+# SlipNTrip V3 is tailored toward V3 project and stepper motor
